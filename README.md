@@ -4,6 +4,8 @@ Auto-encoders are neural network models used for unsupervised learning. They are
 
 In this work, the dataset with 12 input features is compressed into 7 features and the reconstructed data is almost similar to the original input data.
 
-[plots](https://github.com/PrabhuKiran8790/Dimensionality-Reduction-using-Auto-Encoders/blob/main/plots.png)
+<p align="center">
+  <a href="#"><img src="https://github.com/PrabhuKiran8790/Dimensionality-Reduction-using-Auto-Encoders/blob/main/plots.png" alt="Plots"></a>
+</p>
 
 as we can see, the red shaded region tells us the error between original and reconstructed data
